@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int a=0,b=0;
+{
+  while (scanf("%d",&a)){
+if (a==2)
+		
+	b+=2;
+	printf("%s", "number ");
+	printf("%d\n", b);
+}
+  return 0;
+}
